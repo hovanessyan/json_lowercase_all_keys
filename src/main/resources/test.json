@@ -1,0 +1,70 @@
+{
+  "ROWNUM": "328938",
+  "SOURCE_NAME": "I2323",
+  "ID": "333333",
+  "FIRST_NAME": "A121221",
+  "KNOWN_AS": "G1223321",
+  "LAST_NAME": "sadsadsd",
+  "PLACE_OF_BIRTH": "Indsadsadsaddsaia",
+  "DATE_OF_BIRTH": "sadsaddsa",
+  "UPRN": "sadsadsad",
+  "POST_CODE": "asdsadsda",
+  "POST_TOWN": "GLASGOW",
+  "ESTIMATED_DOB": "N",
+  "LAST_UPDATED": "2019-02-11T13:57:05.264Z",
+  "cluster_id": 3020,
+  "aliases": [
+    {
+      "_id": {
+        "timestamp": 1550152767,
+        "machineIdentifier": 6505561,
+        "processIdentifier": 59,
+        "counter": 2775622,
+        "time": 1550152767000,
+        "timeSecond": 1550152767,
+        "date": 1550152767000
+      },
+      "ROWNUM": "328938",
+      "SOURCE_NAME": "I2323",
+      "ID": "333333",
+      "FIRST_NAME": "A121221",
+      "KNOWN_AS": "G1223321",
+      "LAST_NAME": "sadsadsd",
+      "PLACE_OF_BIRTH": "Indsadsadsaddsaia",
+      "DATE_OF_BIRTH": "sadsaddsa",
+      "UPRN": "sadsadsad",
+      "POST_CODE": "asdsadsda",
+      "POST_TOWN": "GLASGOW",
+      "ESTIMATED_DOB": "N",
+      "LAST_UPDATED": "2019-02-11T13:57:05.264Z",
+      "cluster_id": 3020,
+      "score": "0.9997580647468567"
+    },
+    {
+      "_id": {
+        "timestamp": 1550152767,
+        "machineIdentifier": 6505561,
+        "processIdentifier": 59,
+        "counter": 2775622,
+        "time": 1550152767000,
+        "timeSecond": 1550152767,
+        "date": 1550152767000
+      },
+      "ROWNUM": "328938",
+      "SOURCE_NAME": "I2323",
+      "ID": "333333",
+      "FIRST_NAME": "A121221",
+      "KNOWN_AS": "G1223321",
+      "LAST_NAME": "sadsadsd",
+      "PLACE_OF_BIRTH": "Whatever",
+      "DATE_OF_BIRTH": "sadsaddsa",
+      "UPRN": "sadsadsad",
+      "POST_CODE": "asdsadsda",
+      "POST_TOWN": "PAISLEY",
+      "ESTIMATED_DOB": "N",
+      "LAST_UPDATED": "2019-02-11T13:57:05.264Z",
+      "cluster_id": 3020,
+      "score": "0.9997580647468567"
+    }
+  ]
+}
